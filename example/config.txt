@@ -1,0 +1,2 @@
+Prefix plugins/FATCAT/example/
+Plugin FATCAT inputfile parameters.txt outputfile 1a21A_1hwgC
